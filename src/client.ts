@@ -34,7 +34,7 @@
  */
 
 /** Package id, also used as the injected `<style>` tag's owner. */
-const PLUGIN_ID = '@local/dsh-settings-footer';
+const PLUGIN_ID = 'dsh-settings-footer';
 
 /** Locale namespace for this plugin's strings. */
 const NS = 'dsh-settings-footer';

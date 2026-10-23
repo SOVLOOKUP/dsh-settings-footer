@@ -45,7 +45,7 @@ Cordis Plugin · N running     全局面板
 ## 安装
 
 ```bash
-dsh plugin --profile web add <git-url-or-path>
+dsh plugin --profile web add github:SOVLOOKUP/dsh-settings-footer
 ```
 
 或本地开发时直接 link：
