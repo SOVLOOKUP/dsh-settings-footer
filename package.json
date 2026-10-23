@@ -1,6 +1,6 @@
 {
   "name": "dsh-settings-footer",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Move the sidebar Settings entry to a row at the top of the sidebar, hide the 新会话 button, and empty the sidebar footer.",
   "type": "module",
   "license": "MIT",
