@@ -1,0 +1,3 @@
+- insert:
+    - id: settings-footer-restore
+      name: '@local/dsh-settings-footer'

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Settings at the top",
+    "description": "Moves Settings to a row at the top of the sidebar, hides the 新会话 button, and empties the sidebar footer."
+  }
+}
